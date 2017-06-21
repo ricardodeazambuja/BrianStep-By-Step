@@ -1,4 +1,4 @@
-# BrianStep-By-Step
+# Brian Step-By-Step
 Step-by-Step Brian Simulation
     
 This class was created to make it easier to run a Brian simulation step-by-step, passing input spikes without running out of memory or having to create the input spikes beforehand. It also makes the code more clear because you generate a separated function with your Brian simulation code.
