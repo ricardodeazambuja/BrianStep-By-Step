@@ -7,4 +7,6 @@ This code was tested with Brian 1.4 only!
 
 ## Related:
 - [BrianConnectUDP: Interface to connect multiple spiking neural network simulations using (or not) Brian through UDP packets](https://github.com/ricardodeazambuja/BrianConnectUDP)
-- [Short-Term Plasticity in a Liquid State Machine Biomimetic Robot Arm Controller](https://github.com/ricardodeazambuja/IJCNN2017)
+- [Short-Term Plasticity in a Liquid State Machine Biomimetic Robot Arm Controller](https://github.com/ricardodeazambuja/IJCNN2017)  
+
+http://ricardodeazambuja.com/
